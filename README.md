@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Mrmed74
 - 👀 I’m interested in Android app development 
-- 🌱 I’m currently learning Android 
 - 💞️ I’m looking to collaborate on app developer 
 - 📫 How to reach me medbusiness015@gmail.com 
 - 😄 Pronouns: He
